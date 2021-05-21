@@ -1,0 +1,1 @@
+D:\Betu\env\Scripts\activate.bat
